@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my profile
 
-- 📫 How to reach me by this gmail: **aradhya.1441@gmail.com**
+- 📫 You can reach me by this gmail: **aradhya.1441@gmail.com**
 
 - 📄 Know about my experiences: [Latest CV](https://github.com/AradhyaNepal/AradhyaNepal/blob/main/Aaradhya%20Nepal%20Flutter%20Resume.pdf)
 
