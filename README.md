@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my Digi3 Series Applications (Digi3Map, Digi3Shop & Digi3Wallet)
 
-- 🌱 I’m currently learning **Flutter, Python(Appium Automation) and Overall Coding** 
+- 🌱 I’m currently learning **Flutter, Python(Appium Automation), Professional Communication and Team/Project Leading Skills** 
 
 - 👨‍💻 All of my projects are available at my profile
 
