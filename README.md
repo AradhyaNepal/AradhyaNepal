@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in CodeHimalaya as Flutter Developer
 
-- 🌱 I’m currently learning **Flutter, Python(Appium Automation), Professional Communication and Team/Project Leading Skills** 
+- 🌱 I’m currently learning **Flutter, Native Android, Native IOS, Professional Communication and Team/Project Leading Skills** 
 
 - 👨‍💻 All of my projects are available at my Repository section
 
