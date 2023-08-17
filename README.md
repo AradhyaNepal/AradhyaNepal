@@ -21,7 +21,7 @@
 
 - 🤓 Introvert, so just 3-4 years behind in social skills compared to others. So please judge me not. 🥺
 
-- 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, highly Industrious, low in extroversion, average neuroticism, and low in agreeableness.
+- 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, high Industriousness(But Low Orderliness), low extroversion, average neuroticism, and low agreeableness if you are interested in OCEAN.
 
 - 💬 How to start a conversation with me: Bring any philosophical topic with me from yin-yang☯️ to Friedrich Nietzsche. 
 
