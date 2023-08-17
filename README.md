@@ -11,14 +11,18 @@
     - Professional Communication
     - Team/Project Leading Skills
 
-- 👨‍💻 All of my projects are available at my Repository section
+- 👨‍💻 All of my projects are available in my Repository section
 
-- 📫 You can reach me by this gmail: **aradhya.1441@gmail.com**
+- 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
 - 📄 Know about my experiences: [**Latest CV**](https://github.com/AradhyaNepal/AradhyaNepal/blob/main/Aaradhya%20Nepal%20Flutter%20Resume.pdf)
 
-- 🥳 My First Existance : 25 April 2002
+- 🥳 My First Existence: 25 April 2002
 
-- 🤓 Introvert, so just 3-4 years behind in social skills campared to others. So please judge me not. 🥺
+- 🤓 Introvert, so just 3-4 years behind in social skills compared to others. So please judge me not. 🥺
 
-- 🕵️ My Bad Habits: Stalking others Repo's Code, and you might be my next stalking parasite's host. If you think by doing this I am a creeper, then yes I am 😎. 
+- 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, highly Industrious, low in extroversion, average neuroticism, and low in agreeableness.
+
+- 💬 How to start a conversation with me: Bring any philosophical topic with me from yin-yang☯️ to Friedrich Nietzsche. 
+
+- 🕵️ My Bad Habits: Stalking others Repo's Code and you might be my next stalking parasite's host. If you think by doing this I am a creeper, then yes I am 😎. 
