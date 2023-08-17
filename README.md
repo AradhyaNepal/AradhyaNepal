@@ -23,6 +23,6 @@
 
 - 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, high Industriousness(But Low Orderliness), low extroversion, average neuroticism, and low agreeableness if you are interested in OCEAN.
 
-- 💬 How to start a conversation with me: Bring any philosophical topic with me from yin-yang☯️ to Friedrich Nietzsche. 
+- 💬 How to start a conversation with me: Bring any philosophical topic with me from yin-yang☯️ to Friedrich Nietzsche or talk about coding concepts. 
 
 - 🕵️ My Bad Habits: Stalking others Repo's Code and you might be my next stalking parasite's host. If you think by doing this I am a creeper, then yes I am 😎. 
