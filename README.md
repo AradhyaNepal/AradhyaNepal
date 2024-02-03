@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in CodeHimalaya as a Flutter Developer
 
 - 🌱 My career summary in a nutshell (As of 2024 Feb):
-    - Specialist in Flutter Framework, but not limited to the framework, wanna be known as Mobile developer regardless of tech stack used.
+    - Specialist in Flutter Framework, but not limited to the framework, wanna be known more as Mobile developer then Flutter developer.
     - Also learning and developing personal projects on .Net Core as backend. Bcz I wanna be Generalist on many but Specialist on one (Mobile).
     - After learning .Net, I will also learn about Blockchain.
     - I am learning these 3 frameworks by practically working on my PocketA3 Project (both backend and mobile-desktop).
