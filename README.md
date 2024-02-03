@@ -8,7 +8,8 @@
     - Flutter
     - .Net Core
     - After those, blockchain
-    - By the way, I am doing those by practically working on my PocketA3 application, and updated form of my bachelor FYP.
+    - By the way, I am learning this framework by practically working on my PocketA3 Project (both backend and mobile-desktop).
+    - The PocketA3 application is a re-making of my bachelor FYP.
 
 - 👨‍💻 All of my projects are available in my Repository section
 
