@@ -4,13 +4,15 @@
 
 - 🔭 I’m currently working in CodeHimalaya as a Flutter Developer
 
-- 🌱 I’m currently learning and aiming to achieve mastery of:
-    - Flutter
-    - .Net Core
-    - After those, blockchain
+- 🌱 My career summary in a nutshell (As of 2024 Feb):
+    - Specialist in Flutter Framework, but not limited to the framework, wanna be known as Mobile developer regardless of tech stack used.
+    - Also learning and developing personal projects on .Net Core as backend. Bcz I wanna be Generalist on many but Specialist on one (Mobile).
+    - After learning .Net, I will also learn about Blockchain.
     - I am learning these 3 frameworks by practically working on my PocketA3 Project (both backend and mobile-desktop).
     - The PocketA3 application is a re-making of my bachelor FYP.
-    - It is an Self Productive application tailored  for me, but in the future will be a multiplayer openly available app.
+    - It is a Self Productive application tailored  for me, but in the future will be a multiplayer openly available app.
+    - I am not interested in Freelancing.
+    - But wanna go for teaching and wanna do FYP supervising if I get an opportunity to do so.
 
 - 👨‍💻 All of my projects are available in my Repository section
 
