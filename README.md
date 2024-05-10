@@ -4,17 +4,28 @@
 
 - 🔭 I’m currently working in CodeHimalaya as a Flutter Developer
 
-- 🌱 My career summary in a nutshell (As of 2024 Feb):
-    - Specialist in Flutter Framework, but not limited to the framework, wanna be known more as Mobile developer then Flutter developer.
-    - Also learning and developing personal projects on .Net Core as backend. Bcz I wanna be Generalist on many but Specialist on one (Mobile).
-    - After learning .Net, I will also learn about Blockchain.
-    - I am learning these 3 frameworks by practically working on my PocketA3 Project (both backend and mobile-desktop).
-    - The PocketA3 application is a re-making of my bachelor FYP [Digi3Map](https://github.com/AradhyaNepal/Digi3Map)
-    - It is a Self Productive application tailored  for me, but in the future will be a multiplayer openly available app.
-    - I am not interested in Freelancing.
-    - But wanna go for teaching and wanna do FYP supervising if I get an opportunity to do so.
+- 🌱 My career aim description:
 
-- 👨‍💻 All of my projects are available in my Repository section
+    I can do it all day😎🤙🏻🔥
+
+    Hello,
+    Its me Aaradhya dreaming of becoming an full stack Mobile developer.
+    From school days I was very good with computers, may be because of my dad being techie kind of person.
+    In class 12 beginning I decided to do Mobile development so I learned java, joined lots of online/physical course and choose my career as per that.
+    In Bachelor, I decided to do Mobile development from Flutter, and build my career.
+    
+    So Flutter might not be the best tech, but for me its something which help me to get started on my career and get exposure to the real world tech market. In Flutter I am in stage where I can build any app, obviously by googling if any issues faced on the middle.
+    
+    But in future I don't wanna be limit my self to Flutter, I wanna extend my width on other stack to,
+    I am also learning:
+    1) Spring boot for backend using Java
+    2) Kotlin for Native Android Development
+    3) Swift for Native IOS Development
+    4) Database management
+    5) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
+    6) Being proactive engineer who is not limited to one framework. On time of need I can do anything. But I am sticked to Flutter(as main career where I will go in depth) and with above 5 mentioned where I will go in width.
+    
+    Thanks for reading 😊
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
@@ -23,7 +34,3 @@
 - 🤓 Introvert, so just 3-4 years behind in social skills compared to others. So please judge me not. 🥺
 
 - 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, high Industriousness(But Low Orderliness), low extroversion, average neuroticism, and low agreeableness if you are interested in OCEAN.
-
-- 💬 How to start a conversation: Bring any philosophical topic with me from yin-yang☯️ to Friedrich Nietzsche or talk about coding concepts. 
-
-- 🕵️ My Bad Habits: Stalking others Repo's Code and you might be my next stalking parasite's host. If you think by doing this I am a creeper, then yes I am 😎. 
