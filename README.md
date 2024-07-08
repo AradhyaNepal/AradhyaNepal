@@ -22,7 +22,7 @@
     2) Native Android and Native IOS non UI functionality, like biometric sensor
     3) React Web
     4) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
-    5) Being proactive engineer who is not limited to one framework. On time of need I can do anything. But I am sticked to Flutter(as main career where I will go in depth) and with above 5 mentioned where I will go in width.
+    5) Engineer over above 4 frameworker
     
     Thanks for reading 😊
 
