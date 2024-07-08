@@ -22,7 +22,7 @@
     2) Native Android and Native IOS non UI functionality, like biometric sensor
     3) React Web
     4) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
-    5) Engineer over above 4 frameworker
+    5) Engineer over above 4 frameworker. I will use Flutter to be that engineer, because its what I do most of the hours.
     
     Thanks for reading 😊
 
