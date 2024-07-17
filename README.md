@@ -19,10 +19,9 @@
     But in future I don't wanna be limit my self to Flutter, I wanna extend my width on other stack to,
     I am also learning:
     1) Spring boot for backend using Java
-    2) Native Android and Native IOS non UI functionality, like biometric sensor
-    3) React Web
-    4) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
-    5) Engineer over above 4 frameworker. I will use Flutter to be that engineer, because its what I do most of the hours.
+    2) React Web
+    3) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
+    4) Engineer over above 4 frameworker. I will use Flutter to be that engineer, because its what I do most of the hours.
     
     Thanks for reading 😊
 
