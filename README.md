@@ -8,20 +8,11 @@
 
     I can do it all day😎🤙🏻🔥
 
-    Hello,
-    Its me Aaradhya dreaming of becoming an full stack Mobile developer.
-    From school days I was very good with computers, may be because of my dad being techie kind of person.
-    In class 12 beginning I decided to do Mobile development so I learned java, joined lots of online/physical course and choose my career as per that.
-    In Bachelor, I decided to do Mobile development from Flutter, and build my career.
-    
-    So Flutter might not be the best tech, but for me its something which help me to get started on my career and get exposure to the real world tech market. In Flutter I am in stage where I can build any app, obviously by googling if any issues faced on the middle.
-    
-    But in future I don't wanna be limit my self to Flutter, I wanna extend my width on other stack to,
-    I am also learning:
-    1) Spring boot for backend using Java
-    2) React Web
-    3) Teaching (By video, by blogs, to college students, by codebase examples, in office guidance to juniors)
-    4) Engineer over above 4 frameworker. I will use Flutter to be that engineer, because its what I do most of the hours.
+    I wanna be dedicated:
+    1) Mobile Developer, using Flutter.
+    2) Backend side project developer, using spring.
+    3) Security Expert
+    4) Teacher (By video, by blogs, to college students, by codebase examples, in office guidance to juniors and so on)
     
     Thanks for reading 😊
 
