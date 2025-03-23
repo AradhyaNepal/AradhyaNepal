@@ -8,11 +8,10 @@
 
     I can do it all day😎🤙🏻🔥
 
-    I wanna be dedicated:
-    1) Mobile Developer, using Flutter.
-    2) Backend side project developer, using spring.
-    3) Security Expert
-    4) Teacher (By video, by blogs, to college students, by codebase examples, in office guidance to juniors and so on)
+    3 swords style:
+    1) Mobile Developer as carrer. Flutter main stack.
+    2) Full Stack as backup. Currently Learning Spring boot, and will learn AI.
+    3) Personal Projects as passion. Flutter Mobile App-> SpringBoot Backend -> Rust Websocket MicroService -> AI Microservice
     
     Thanks for reading 😊
 
