@@ -9,9 +9,9 @@
     I can do it all day😎🤙🏻🔥
 
     3 swords style:
-    1) Mobile Developer as carrer. Flutter main stack.
-    2) Full Stack as backup. Currently Learning Spring boot, and will learn AI.
-    3) Personal Projects as passion. Flutter Mobile App-> SpringBoot Backend -> Rust Websocket MicroService -> AI Microservice
+    1) Mobile Developer as carrer. Flutter main stack. Learning Native, but only on free office time ;-)
+    2) Open for any Full Stack as per what company demands.
+    3) Personal Apps combining everything I learned so far. Flutter Mobile -> Spring Boot API -> Rust Websocket
     
     Thanks for reading 😊
 
