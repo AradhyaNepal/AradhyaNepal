@@ -21,9 +21,9 @@
         4) Python(exploring) 
         5) Rust(exploring)
         
-        My Fusper Stack blends modern mobile development with a powerful backend and reliable deployment workflow. At its core, Flutter enables fast, expressive UI development for both              Android and iOS, while Spring Boot powers the backend with clean APIs, strong security, and production-grade scalability. DevOps tools tie it all together — from continuous                  integration to smooth deployments — ensuring updates and rollouts are seamless.
+        My Fusper Stack blends modern mobile development with a powerful backend and reliable deployment workflow. At its core, Flutter enables fast, expressive UI development for both    Android and iOS, while Spring Boot powers the backend with clean APIs, strong security, and production-grade scalability. DevOps tools tie it all together — from continuous                  integration to smooth deployments — ensuring updates and rollouts are seamless.
         
-        For scripting, automation, or integrating AI features, Python comes in as a flexible companion, perfect for quick utilities or data-heavy tasks. When performance is critical, Rust           steps in to handle low-level operations with speed and safety. Together, this stack covers the entire development cycle — from the app in your hand to the server in the cloud —              without compromising on performance, maintainability, or flexibility.
+        For scripting, automation, or integrating AI features, Python comes in as a flexible companion, perfect for quick utilities or data-heavy tasks. When performance is critical, Rust steps in to handle low-level operations with speed and safety. Together, this stack covers the entire development cycle — from the app in your hand to the server in the cloud —              without compromising on performance, maintainability, or flexibility.
     
     Thanks for reading 😊
 
