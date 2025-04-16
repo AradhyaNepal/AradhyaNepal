@@ -5,7 +5,8 @@
 - 🔭 I’m currently working in CodeHimalaya as a Flutter Developer
 
 - 🌱 My career aim description:
-        A mobile-first full stack developer working primarily with the self made 5 Stack :
+
+  A mobile-first full stack developer working primarily with the self made 5 Stack :
         
         In Depth Specialization
         -----------------------
