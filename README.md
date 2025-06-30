@@ -10,7 +10,7 @@
         
         Specific Purpose Tools
         -----------------------
-        1) Flutter(Specialization): Mobile
+        1) Flutter(Specialization): Frontend specially for Mobile
         2) Go: Backend
         3) DevOps: Production Operations of backend and mobile 
         
