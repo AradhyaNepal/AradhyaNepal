@@ -8,22 +8,17 @@
 
   A mobile-first full stack developer working primarily with the self made 5 Stack :
         
-        In Depth Specialization
+        Specific Purpose Tools
         -----------------------
-        1) Flutter(Expertise)
-        2) Spring Boot(Basic Knowledge)
-        3) DevOps(exploring)
+        1) Flutter(Specialization): Mobile
+        2) Go: Backend
+        3) DevOps: Production Operations of backend and mobile 
         
-        Surface Level Tools
-        -------------------
-        4) Python(exploring) 
-        5) Rust(exploring)
+        General Purpose Tools
+        ----------------------
+        4) Python: Small Task
+        5) Java: Big Task
         
-        My 5 Stacks blends modern mobile development with a powerful backend and reliable deployment workflow. At its core, Flutter enables fast, expressive UI development for both Android and iOS, while Spring Boot powers the backend with clean APIs, strong security, and production-grade scalability. DevOps tools tie it all together — from continuous integration to smooth deployments — ensuring updates and rollouts are seamless.
-        
-        For scripting, automation, or integrating AI features, Python comes in as a flexible companion, perfect for quick utilities or data-heavy tasks. When performance is critical, Rust steps in to handle low-level operations with speed and safety. Together, this stack covers the entire development cycle — from the app in your hand to the server in the cloud — without compromising on performance, maintainability, or flexibility.
-    
-    Thanks for reading 😊
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
