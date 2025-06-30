@@ -6,19 +6,21 @@
 
 - 🌱 My career aim description:
 
-  A mobile-first full stack developer working primarily with the self made 5 Stack :
-        
+  A mobile-first full stack developer working primarily with the self made 5 Stack; FlutterGo-DevOpsPro :
+        ![final final zoro](https://github.com/user-attachments/assets/684e5480-f83f-4dc4-b877-154133a7234e)
+
         Specific Purpose Tools
         -----------------------
         1) Flutter(Specialization): Frontend specially for Mobile
         2) Go: Backend
-        3) DevOps: Production Operations of backend and mobile 
+        3) DevOps: Production Operations of backend and mobile
+          I can make a mobile app from scratch, make a backend for it and deploy-distribute it to production.
         
         General Purpose Tools
         ----------------------
         4) Python: Small Task
         5) Java: Big Task
-        
+          As a sofware developer what makes me pro is, I can do any kind of engineering.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
