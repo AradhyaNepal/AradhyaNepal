@@ -6,21 +6,12 @@
 
 - 🌱 My career aim description:
 
-  A mobile-first full stack developer working primarily with the self made 5 Stack; FlutterGo-DevOpsPro :
-        ![final final zoro](https://github.com/user-attachments/assets/684e5480-f83f-4dc4-b877-154133a7234e)
-
-        Specific Purpose Tools
-        -----------------------
-        1) Flutter(Specialization): Frontend specially for Mobile
+A mobile-first full stack developer working primarily with the self made stack; FlutterGo-DevOpsPro :
+        1) Flutter(Specialization): Frontend Specially for Mobile, except for Web (Flutter Web Sucks)
         2) Go: Backend
-        3) DevOps: Production Operations of backend and mobile
-          I can make a mobile app from scratch, make a backend for it and deploy-distribute it to production.
-        
-        General Purpose Tools
-        ----------------------
-        4) Python: Small Task
-        5) Java: Big Task
-          As a sofware developer what makes me pro is, I can do any kind of engineering.
+        3) DevOps: Production Operations of Backend and of Mobile
+        4) Python: Scripting / Small Task
+        5) Kotlin: For Native Android and Backend Backup 
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
@@ -29,3 +20,7 @@
 - 🤓 Introvert, so just 3-4 years behind in social skills compared to others. So please judge me not. 🥺
 
 - 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, high Industriousness(But Low Orderliness), low extroversion, average neuroticism, and low agreeableness if you are interested in OCEAN.
+
+![Desktop](https://github.com/user-attachments/assets/7a4d92ac-7ba7-4e21-a324-d74722871afe)
+![iPhone](https://github.com/user-attachments/assets/981b5e54-5c88-45a3-a792-1b6a0b6f36c2)
+
