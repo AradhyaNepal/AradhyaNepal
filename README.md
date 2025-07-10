@@ -8,11 +8,11 @@
 
 A mobile-first full stack developer working primarily with the self made stack; FlutterGo-DevOpsPro :
 
-        1) Flutter(Specialization): Frontend Specially for Mobile, except for Web (Flutter Web Sucks)
-        2) Go: Backend
+        1) Flutter(Specialization): Mobile Developer Job
+        2) Go: Backend which will get deployed, bcz its light for practice project.
         3) DevOps: Production Operations of Backend and of Mobile
-        4) Python: Scripting / Small Task
-        5) Kotlin: For Native Android and Backend Backup 
+        4) Python: Small Scripting and Large Data analysis 
+        5) Kotlin: Native Android Backup and for Backend which will not get deployed, bcz its heavy for practice project.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
