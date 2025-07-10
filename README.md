@@ -7,6 +7,7 @@
 - 🌱 My career aim description:
 
 A mobile-first full stack developer working primarily with the self made stack; FlutterGo-DevOpsPro :
+
         1) Flutter(Specialization): Frontend Specially for Mobile, except for Web (Flutter Web Sucks)
         2) Go: Backend
         3) DevOps: Production Operations of Backend and of Mobile
