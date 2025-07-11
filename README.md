@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aaradhya Nepal</h1>
-<h3 align="center">A passionate Mobile Developer And a Coding Geek 🤓 From Nepal</h3>
+<h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
+<h2 align="center">A passionate Senior Mobile Developer</h2> 
+<h3 align="center">Aiming to become Senior Lead Backend Developer</h3>
+<h4 align="center">And to build, upload and maintain my ideas Apps in PlayStore and AppStore</h4>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🌱 My career aim description:
