@@ -16,7 +16,7 @@ How? By smooth transition from:
 Flutter -> Full Stack Mobile Developer -> Junior Backend Developer with Flutter as Freelance -> And one day near future:
 Senior Lead Backend Developer at work |  My own Mobile Apps ideas in PlayStore and AppStore
 
-Its called smooth, because the timeframe freaking 12 years, 2037 AD (35 Yr Old Me). Hey! I am not just aiming to learn stacks, I am aiming to have mastery, it takes time; And currently due to my youth, I am a selfish Lead.
+Its called smooth, because the timeframe freaking 7 years, 2032 AD (I will be 30 Yr). Hey! I am not just aiming to learn stacks, I am aiming to have mastery, it takes time; And currently due to my youth, I am a selfish Lead.
 
 So:
 
