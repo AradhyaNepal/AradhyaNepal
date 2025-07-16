@@ -13,7 +13,7 @@ But as I keep working in Mobile, I am kinda feeling more interest in exploring B
 And thats how my FullStack Mobile DevOps Developer journey begins.
 
 Here is a short journey phases:
-Full Time Flutter -> Intern in Full Stack yet Senior in Mobile Developer -> Full Time Backend career switch-> And one day near future:
+Full Time Flutter -> Intern in Full Stack yet Senior in Mobile -> Full Time Backend career switch-> And one day near future:
 Senior Full Stack Mobile Developer with specialization in MobileDevOps
 
 For this journey I can created my own stack, which I calls: FlutterGo-DevOpsPro stack
