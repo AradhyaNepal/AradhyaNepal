@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
 <h2 align="center">A passionate Senior Mobile Developer</h2> 
-<h3 align="center">Aiming to become Senior Lead Backend Developer</h3>
-<h4 align="center">And to build, upload and maintain my ideas Apps in PlayStore and AppStore</h4>
+<h3 align="center">Aiming to become FullStack Mobile DevOps Developer</h3>
+<h4 align="center">And to build my own mobile appplication for Playstore and Appstore</h4>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🌱 My career aim description:
@@ -10,25 +10,23 @@ Hey Its me, Aaradhya Gopal Nepal.
 A Flutter Developer with strong passion for developing mobile app with love and passion.
 
 But as I keep working in Mobile, I am kinda feeling more interest in exploring Backend and Deployment.
-Planning to switch to backend roles.
+And thats how my FullStack Mobile DevOps Developer journey begins.
 
-How? By smooth transition from: 
-Flutter -> Full Stack Mobile Developer -> Junior Backend Developer with Flutter as Freelance -> And one day near future:
-Senior Lead Backend Developer at work |  My own Mobile Apps ideas in PlayStore and AppStore
+Here is a short journey phases:
+Full Time Flutter -> Intern in Full Stack yet Senior in Mobile Developer -> Full Time Backend career switch-> And one day near future:
+Senior Full Stack Mobile Developer with specialization in MobileDevOps
 
-Its called smooth, because the timeframe freaking 7 years, 2032 AD (I will be 30 Yr). Hey! I am not just aiming to learn stacks, I am aiming to have mastery, it takes time; And currently due to my youth, I am a selfish Lead.
+For this journey I can created my own stack, which I calls: FlutterGo-DevOpsPro stack
 
-So:
+1) Flutter: Doing Full Time Job. Mobile is what I would be doing my entire life. Flutter could change, but switching to another stack is very easy in mobile.
+2) Go: Backend I choosed, where I want to go at least 2 year on full time job. After which I can be qualified as actual FullStack Mobile Developer.
+3) DevOps: All expertise covered to deal with Mobile, Backend and Frontend Production Operation. Also undestanding in depth from backend's perspective how these applications communicate. It qualifies me to be Mobile DevOps and helps in FullStack journey.
+4) Database: Going advance on Postgressql, on Mongo. And basic on other data options like graph. Even if Go don't go good, if I got good DB knowledge, I can go another backend's ecosystem.
+5) Python (Aiming Basic): Fun script to make my life easy; why use online PDF compression website when I can ask ChatGPT to give me python script. And for AI; I don't wanna loose the hype of AI, at least I can show-off to amateur developers. Might do small Django Backend, on small freelance projects. I had already worked on Django.
 
-My 5 Tech Stack (rather say 5 constrains for a Gen-Z guy on his most moody phase):
+With these stack I can be special in my Mobile journey, why hire me then others; Because I am i.e Full Stack Mobile DevOps Developer with actual professional working experience.
 
-Which I calls: FlutterGo-DevOpsPro Journey
-
-1) Flutter(Currently have Advance Expertise): Doing Full Time Job.  Will build my own apps and maintain them.
-2) Go(Aiming Advance): Thats the backend I choose to master and one day will switch to it. Currently not trendy, but I aim for future. Challenge is how I will gain experience on it; IDK. If this backend will never used in market, what to do; IDK. Yet a backend for my personal apps.
-3) DevOps(Aiming Basic): All expertise covered to deal with Mobile, Backend and Frontend Production Operation.
-4) Database(Aiming Advance): Not basic, rather going advance.  Not just Mongo(NOSQL) and Postgresql(SQL), going all possible storage possible, e.g graphDB.
-5) Python (Aiming Basic): Fun script to make my life easy; why use online PDF compression website when I can ask ChatGPT to give me python script. And for AI; I don't wanna loose the hype of AI, at least I can show-off to amateur developers.
+With this stack I could easily go in teaching, i can easily do freelance and i can have worklife balance. Because mobile is most chill, less pressure and fun full time job ;-), specially for me.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
