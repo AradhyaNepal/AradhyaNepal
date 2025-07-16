@@ -19,14 +19,14 @@ Senior Full Stack Mobile Developer with specialization in MobileDevOps
 For this journey I can created my own stack, which I calls: FlutterGo-DevOpsPro stack
 
 1) Flutter: Doing Full Time Job. Mobile is what I would be doing my entire life. Flutter could change, but switching to another stack is very easy in mobile.
-2) Go: Backend I choosed, where I want to go at least 2 year on full time job. After which I can be qualified as actual FullStack Mobile Developer.
-3) DevOps: All expertise covered to deal with Mobile, Backend and Frontend Production Operation. Also undestanding in depth from backend's perspective how these applications communicate. It qualifies me to be Mobile DevOps and helps in FullStack journey.
-4) Database: Going advance on Postgressql, on Mongo. And basic on other data options like graph. Even if Go don't go good, if I got good DB knowledge, I can go another backend's ecosystem.
+2) Go: Backend I chosed, where I want to go at least 2 year on full time job. After which I can be qualified as actual FullStack Mobile Developer.
+3) DevOps: All expertise covered to deal with Mobile, Backend and Frontend Production Operation. Also understanding in depth from backend's perspective how these applications communicate. It qualifies me to be Mobile DevOps and helps in FullStack journey.
+4) Database: Going advance on Postgresql, on Mongo. And basic on other data options like graph. Even if Go don't go good, if I got good DB knowledge, I can go another backend's ecosystem.
 5) Python (Aiming Basic): Fun script to make my life easy; why use online PDF compression website when I can ask ChatGPT to give me python script. And for AI; I don't wanna loose the hype of AI, at least I can show-off to amateur developers. Might do small Django Backend, on small freelance projects. I had already worked on Django.
 
 With these stack I can be special in my Mobile journey, why hire me then others; Because I am i.e Full Stack Mobile DevOps Developer with actual professional working experience.
 
-With this stack I could easily go in teaching, i can easily do freelance and i can have worklife balance. Because mobile is most chill, less pressure and fun full time job ;-), specially for me.
+With this stack I could easily go in teaching, i can easily do freelance and i can have work life balance. Because mobile is most chill, less pressure and fun full time job ;-), specially for me.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
