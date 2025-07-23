@@ -6,27 +6,22 @@
 
 - 🌱 My career aim description:
 
-Hey Its me, Aaradhya Gopal Nepal.
+Hey Its me, Aaradhya Gopal, from Nepal.
 A Flutter Developer with strong passion for developing mobile app with love and passion.
 
-But as I keep working in Mobile, I am kinda feeling more interest in exploring Backend and Deployment.
-And thats how my FullStack Mobile DevOps Developer journey begins.
+My career ambition is to become a Senior FullStack Mobile Developer and Mobile DevSecOps, mainly focused on remote opportunities.
+Additionally, I want to launch my own mobile apps published on the Play Store and App Store.
+Lastly, I’m keen to explore part-time teaching roles to build a network, which is often missing in remote jobs.
 
-Here is a short journey phases:
-Full Time Flutter -> Intern in Full Stack yet Senior in Mobile -> Full Time Backend career switch-> And one day near future:
-Senior Full Stack Mobile Developer with specialization in MobileDevOps
+Flutter: Currently working full-time. Mobile development is my lifelong commitment. Flutter is my tool, but my main drive is mastering mobile deeply.
 
-For this journey I can created my own stack, which I calls: FlutterGo-DevOpsPro stack
+Go: My chosen backend stack for personal side-projects.
 
-1) Flutter: Doing Full Time Job. Mobile is what I would be doing my entire life. Flutter could change, but switching to another stack is very easy in mobile.
-2) Go: Backend I chosed, where I want to go at least 2 year on full time job. After which I can be qualified as actual FullStack Mobile Developer.
-3) DevOps: All expertise covered to deal with Mobile, Backend and Frontend Production Operation. Also understanding in depth from backend's perspective how these applications communicate. It qualifies me to be Mobile DevOps and helps in FullStack journey.
-4) Database: Going advance on Postgresql, on Mongo. And basic on other data options like graph. Even if Go don't go good, if I got good DB knowledge, I can go another backend's ecosystem.
-5) Python (Aiming Basic): Fun script to make my life easy; why use online PDF compression website when I can ask ChatGPT to give me python script. And for AI; I don't wanna loose the hype of AI, at least I can show-off to amateur developers. Might do small Django Backend, on small freelance projects. I had already worked on Django.
+DevOps: I’ve covered essential DevOps skills to manage Mobile, Backend, and Frontend production. Understanding backend systems in-depth enhances my Mobile DevOps and FullStack path.
 
-With these stack I can be special in my Mobile journey, why hire me then others; Because I am i.e Full Stack Mobile DevOps Developer with actual professional working experience.
+Database: Going deeper into PostgreSQL and MongoDB. I’ve basic knowledge of other DB options like graph databases. Even if Go doesn’t work out, advanced DB skills can pivot me into another backend stack.
 
-With this stack I could easily go in teaching, i can easily do freelance and i can have work life balance. Because mobile is most chill, less pressure and fun full time job ;-), specially for me.
+Python: For automation, utility scripts, AI exploration, and small freelance projects. I aim to be capable enough to build Django backends when needed, make smart tools, and stay relevant in the fast-moving tech landscape.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
