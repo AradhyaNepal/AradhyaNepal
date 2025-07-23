@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
 <h2 align="center">A passionate Senior Mobile Developer</h2> 
-<h3 align="center">Aiming to become Senior FullStack Mobile DevOps Developer</h3>
+<h3 align="center">Aiming to become Senior FullStack Mobile Developer and Mobile DevSecOps</h3>
 <h4 align="center">And to build my own mobile appplication for Playstore and Appstore</h4>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
