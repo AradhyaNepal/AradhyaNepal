@@ -13,15 +13,20 @@ My career ambition is to become a Senior FullStack Mobile Developer and Mobile D
 Additionally, I want to launch my own mobile apps published on the Play Store and App Store.
 Lastly, I’m keen to explore part-time teaching roles to build a network, which is often missing in remote jobs.
 
-Flutter: Currently working full-time. Mobile development is my lifelong commitment. Flutter is my tool, but my main drive is mastering mobile deeply.
 
-Go: My chosen backend stack for personal side-projects.
+Primary Work Stacks
+--------------------
+Flutter: My current full-time focus and first passion. Even if I move to another field, I’ll keep building personal apps with Flutter.
 
-DevOps: I’ve covered essential DevOps skills to manage Mobile, Backend, and Frontend production. Understanding backend systems in-depth enhances my Mobile DevOps and FullStack path.
+Go: My backend stack of choice for personal side projects during my 20s. It’s my first step toward transitioning my career in my 30s.
 
-Database: Going deeper into PostgreSQL and MongoDB. I’ve basic knowledge of other DB options like graph databases. Even if Go doesn’t work out, advanced DB skills can pivot me into another backend stack.
+DevOps: Focused on managing production environments. After moving into backend work in my 30s, this will be my next step to become a well-rounded professional with server and infrastructure expertise.
 
-Python: For automation, utility scripts, AI exploration, and small freelance projects. I aim to be capable enough to build Django backends when needed, make smart tools, and stay relevant in the fast-moving tech landscape.
+Pro Stacks
+----------
+Python: Used for automation, utility scripting, data analysis, and small freelance gigs. I want to become proficient enough to create FastAPI backends when needed, develop smart tools, and apply my MSc in IT with a data analyst focus in practical scenarios.
+
+Rust: Targeted for command-line tools, IoT, and processing large datasets. It’s not something I’ll use frequently but a valuable skill to build gradually over time.
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
 
@@ -31,7 +36,8 @@ Python: For automation, utility scripts, AI exploration, and small freelance pro
 
 - 🥴 Personality: Maturing INTJ if you are interested in MBTI. 85 percentile on IQ, high Industriousness(But Low Orderliness), low extroversion, average neuroticism, and low agreeableness if you are interested in OCEAN.
 
-<img width="1080" height="1920" alt="Mobile" src="https://github.com/user-attachments/assets/1d058e00-5a92-4721-9613-1bfc4a78c9d2" />
-<img width="1920" height="1080" alt="Desktop" src="https://github.com/user-attachments/assets/2a12753e-413e-4449-a088-f04ef9863fc4" />
 
+<img width="1920" height="1080" alt="TheFinalWallpaper" src="https://github.com/user-attachments/assets/93c0b1fc-0cfb-4598-8ad2-0c8bc44059b7" />
+
+<img width="1080" height="1920" alt="phone" src="https://github.com/user-attachments/assets/048fee77-be21-4682-99fe-c75084e22a0f" />
 
