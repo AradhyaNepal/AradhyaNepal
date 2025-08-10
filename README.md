@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
-<h2 align="center">A passionate Senior Mobile Developer</h2> 
-<h3 align="center">Aiming to become Senior FullStack Mobile Developer and Mobile DevSecOps</h3>
+<h2 align="center">Software Alchemist; Magics with code </h2> 
+<h3 align="center">Aiming to become Senior FullStack Developer and DevSecOps</h3>
 <h4 align="center">And to build my own mobile appplication for Playstore and Appstore</h4>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
@@ -9,9 +9,7 @@
 Hey Its me, Aaradhya Gopal, from Nepal.
 A Flutter Developer with strong passion for developing mobile app with love and passion.
 
-My career ambition is to become a Senior FullStack Mobile Developer and Mobile DevSecOps, mainly focused on remote opportunities.
-Additionally, I want to launch my own mobile apps published on the Play Store and App Store.
-Lastly, I’m keen to explore part-time teaching roles to build a network, which is often missing in remote jobs.
+My career ambition is to become a Senior FullStack Developer and DevSecOps, mainly focused on remote opportunities. To be full stack I will be working on Full Stack Mobile in 20s simultaneously building backend projects, then in 30s switch to backend and cloud, yet launching my own mobile apps and publishing them on the Play Store and App Store.
 
 
 Primary Work Stacks
